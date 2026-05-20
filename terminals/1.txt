@@ -1,0 +1,6 @@
+---
+pid: 19212
+cwd: |
+  C:\Users\sante
+---
+PS C:\Users\sante>
